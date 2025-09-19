@@ -7,7 +7,6 @@ import Course from "./components/Course";
 import Footer from "./components/Footer";
 import Facilites from "./components/Facilites";
 import Galary from "./components/Galary";
-import Fashion from "../src/pages/courses/FashionDesigning";
 
 
 function App() {
@@ -22,7 +21,6 @@ function App() {
       <Enquiry/>
       <Facilites/>
       <Galary/>
-      <Fashion/>
       <Footer/>
       
      
@@ -31,3 +29,4 @@ function App() {
 }
 
 export default App;
+
